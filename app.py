@@ -3,7 +3,7 @@ from tkinter import scrolledtext
 
 
 def say_hello():
-    log.insert(tk.END, "hello world\n")
+    log.insert(tk.END, "hello mosquito\n")
     log.see(tk.END)  # 自动滚动到底部
 
 
